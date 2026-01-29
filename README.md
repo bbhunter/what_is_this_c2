@@ -415,6 +415,10 @@ MassLogger:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/MassLogger.png "MassLogger")
 
+MeduzaStealer:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/meduzastealer.png "MeduzaStealer")
+
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")

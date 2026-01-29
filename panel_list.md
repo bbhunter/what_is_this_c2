@@ -85,6 +85,7 @@ Madness
 MAjikPOS 
 Mars
 MassLogger
+MeduzaStealer 
 MegalodonHTTP 
 Megumin 
 MysteryBot 
